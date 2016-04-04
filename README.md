@@ -6,4 +6,10 @@
 
 学习内容，在知乎上搜索出来的课程，应该来说相对靠谱。https://www.coursera.org/learn/python
 
-第一天：https://github.com/weizongqi1990/learn_python/blob/master/2016-04-02%2022:00.md
+第一天：
+
+https://github.com/weizongqi1990/learn_python/blob/master/2016-04-02%2022:00/2016-04-02%2022:00.md
+
+第二天：
+
+https://github.com/weizongqi1990/learn_python/blob/master/2016-04-03%2022:00/2016-04-03%2022:00.md
